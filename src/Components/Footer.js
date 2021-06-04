@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul>
-            <li>Made with Papa</li>
+            <li>Made by Tanishq </li>
            </ul>
 
 
