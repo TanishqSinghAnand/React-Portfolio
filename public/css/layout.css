@@ -34,7 +34,7 @@ header {
    min-height: 500px;
    width: 100%;
    /* background: #161415 url(../images/header-background.gif) no-repeat top center; */
-   background: #161415 url(../images/bg2.gif) no-repeat top center; 
+   background: #161415 url("https://ucf8689eda8e891ac93d24f759b6.previews.dropboxusercontent.com/p/orig/ABIlYo9JZGWOMW-wbTRLFb1MpS2iO018wSZvoD1a3jAHN9cV8SZHWrHoK5RzmINALLrrHNO2MO5hbC1zElgswGK2ZvRFQsYvNHC5Qm6V_S38Mq1SZ4HTJE2YW5IeEr4NXPWsDg8oRHSqAn_YPUe6belPeCrmNwPr2SBGmiF1A7lIp1wVq1WBZdUSHew8DNH3RXV2DkA0k9HGa2TP-70S34Kmtm0rkvvTzbs6cCZfA-DBFSAO1RJfIpHgMfJ3ogmIYXu3loQYF1QSLZiDbqooD1vSqy0SYVR-6jqI1P9gcJLD1Si1p766QCMCPBBMJuCXAmTZaHTJRd0BMFLfHme-rnNpHWEuD-TZPfijyMy8ouKBk1CtSVW5g24ZCGioSzeIR9c/p.gif?fv_content=true&size_mode=5") no-repeat top center; 
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
