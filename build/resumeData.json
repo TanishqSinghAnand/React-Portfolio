@@ -163,6 +163,12 @@
         "category": "Build with React (Still in development)",
         "image": "Panchhi_Dental_Clinic.jpeg",
         "url": "https://panchhidentalclinic.netlify.app/"
+      },
+      {
+        "title": "Amazon with Next JS",
+        "category": "E-commerce app with Next JS and Stripe payments",
+        "image": "Next amazon.jpeg",
+        "url": "https://amazon-by-tsa.vercel.app/"
       }
     ]
   }
