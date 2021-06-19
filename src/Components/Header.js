@@ -1,6 +1,8 @@
 import React, { Component, useEffect } from "react";
 import TypeWriter from "react-typewriter";
 import LightSpeed from "react-reveal/LightSpeed";
+import { FaDiscord } from "react-icons/fa";
+
 class Header extends Component {
   render() {
     if (this.props.data) {
@@ -73,7 +75,14 @@ class Header extends Component {
                 I'm an {city} based <span>{occupation}</span>. {description}.
               </h3>
               <hr />
-              <ul className="social">{networks}</ul>
+              <ul className="social">
+                {networks}
+                <li key="discord">
+                  <a href="https://discord.com/users/785909322151755848">
+                    <FaDiscord />
+                  </a>
+                </li>
+              </ul>
             </LightSpeed>
           </div>
         </div>
