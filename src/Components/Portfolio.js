@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import Flash from "react-reveal/Flash";
 import Fade from "react-reveal/Fade";
+// import "imagehover.css";
 class Portfolio extends Component {
   render() {
     if (this.props.data) {
@@ -10,17 +11,21 @@ class Portfolio extends Component {
           <div key={projects.title} className="columns portfolio-item">
             <div className="item-wrap">
               <a href={projects.url} title={projects.title}>
-                <img alt={projects.title} src={projectImage} />
-                <div className="overlay">
-                  <div className="portfolio-item-meta">
-                    <h6>{projects.title}</h6>
-                    <p>{projects.category}</p>
-                  </div>
-                </div>
-                <div className="link-icon">
-                  <div class="arrow bounce"></div>
-                  <i className="fa fa-link"></i>
-                </div>
+                <figure className="imghvr-slide-left">
+                  <img alt={projects.title} src={projectImage} />
+                  <figcaption>
+                    <div className="overlay">
+                      <div className="portfolio-item-meta">
+                        <h6>{projects.title}</h6>
+                        <p>{projects.category}</p>
+                      </div>
+                    </div>
+                    <div className="link-icon">
+                      <div class="arrow bounce"></div>
+                      <i className="fa fa-link"></i>
+                    </div>
+                  </figcaption>
+                </figure>
               </a>
             </div>
           </div>

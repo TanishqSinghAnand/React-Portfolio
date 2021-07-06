@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import Slide from "react-reveal/Slide";
 
 const Contact = ({ data }) => {
-   const [url, setUrl] = useState('mailto:test@example.com?subject=subject&body=body');
    const [name, setName] = useState('');
    const [subject, setSubject] = useState('');
    const [email, setEmail] = useState('');
