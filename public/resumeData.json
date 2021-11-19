@@ -4,7 +4,7 @@
     "occupation": "React Native developer",
     "description": "Night developer . Love Coding",
     "image": "My passport size photo.jpg",
-    "bio": "My name is Tansihq , I'm a React Native developer. Currently I'm in grade 9 at YPS mohali ",
+    "bio": "My name is Tanishq , I'm a React Native developer. Currently I'm in grade 9 at YPS mohali ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "anandtanishqs@gmail.com",
     "phone": "+91 7837552077",
@@ -19,17 +19,17 @@
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/tanishq.singhanand/",
+        "url": "https://www.facebook.com/tanishq.singhanand",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tanishq-s-anand-91743119b/",
+        "url": "https://www.linkedin.com/in/tanishq-s-anand-91743119b",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/tanishq0504/",
+        "url": "https://www.instagram.com/tanishq0504",
         "className": "fa fa-instagram"
       },
       {
@@ -93,82 +93,94 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Amazon with Next JS",
+        "category": "E-commerce app with Next JS and Stripe payments",
+        "image": "Next amazon.jpeg",
+        "url": "https://amazon-by-tsa.vercel.app"
+      },
+      {
+        "title": "Tinstagram",
+        "category": "Build with NextJS ( Click on the + icon to upload a post ) ",
+        "image": "Tinstagram.png",
+        "url": "https://next-js-tg.vercel.app"
+      },
+      {
+        "title": "Techny Teams website",
+        "category": "Build with React, TailwindCSS",
+        "image": "Techny Teams React.png",
+        "url": "https://www.tanishqsinghanands.live"
+      },
+      {
         "title": " YPS Google",
         "category": "Google clone built with React",
         "image": "YPS_Google.png",
-        "url": "https://clone-c29a7.web.app/"
+        "url": "https://clone-c29a7.web.app"
       },
       {
         "title": "Attendence app",
         "category": "Attendence App built with react native",
         "image": "Attendence App.png",
-        "url": "https://attendence-app-hosted.web.app/"
+        "url": "https://attendence-app-hosted.web.app"
       },
       {
         "title": "Snake Game",
         "category": "Snake Game made with Javascript (P5.js)",
         "image": "Snake Game.png",
-        "url": "https://tanishqsinghanand.github.io/Snake-game-by-TSA-/"
+        "url": "https://tanishqsinghanand.github.io/Snake-game-by-TSA-"
       },
       {
         "title": "Calculator",
         "category": "Calculator made with Javascript",
         "image": "Calculator.png",
-        "url": "https://tanishqsinghanand.github.io/Final-Calculator/"
+        "url": "https://tanishqsinghanand.github.io/Final-Calculator"
       },
       {
         "title": "Tic-Tac-Toe",
         "category": "Tic-Tac-Toe made with Javascript (P5.js)",
         "image": "Tic-Tac-Toe.png",
-        "url": "https://tanishqsinghanand.github.io/TICTACTOE/"
+        "url": "https://tanishqsinghanand.github.io/TICTACTOE"
       },
       {
         "title": "Amazon",
         "category": "Amazon clone built with React",
         "image": "Amazon Clone.png",
-        "url": "https://clone-8c3a2.web.app/"
+        "url": "https://clone-8c3a2.web.app"
       },
       {
         "title": "WhatsApp",
         "category": "WhatsApp clone built with React",
         "image": "WhatsApp.jpeg",
-        "url": "https://whatsapp-clone-c7a05.web.app/"
+        "url": "https://whatsapp-clone-c7a05.web.app"
       },
       {
         "title": "Covid-19 Tracker",
         "category": "Covid-19 Tracker built with React",
         "image": "covid-tracker.jpeg",
-        "url": "https://covidtrackerbytanishq.netlify.app/"
+        "url": "https://covidtrackerbytanishq.netlify.app"
       },
       {
         "title": "Discord",
         "category": "Discord built with React",
         "image": "Discord.jpeg",
-        "url": "https://discordbytanishq.netlify.app/"
+        "url": "https://discordbytanishq.netlify.app"
       },
       {
-        "title": "Techny Teams Responsive Website",
+        "title": "A simple Responsive Website",
         "category": "Build with HTML , CSS and JS",
         "image": "Techny Teams.jpeg",
-        "url": "https://technyteams.netlify.app/"
+        "url": "https://technyteams.netlify.app"
       },
       {
         "title": "Netflix UI ",
         "category": "Build with React (Still in development)",
         "image": "Netflix.png",
-        "url": "https://netflix-clone-by-tanishq.netlify.app/"
+        "url": "https://netflix-clone-by-tanishq.netlify.app"
       },
       {
         "title": "Panchhi Dental Clinic Website",
         "category": "Build with React (Still in development)",
         "image": "Panchhi_Dental_Clinic.jpeg",
-        "url": "https://panchhidentalclinic.netlify.app/"
-      },
-      {
-        "title": "Amazon with Next JS",
-        "category": "E-commerce app with Next JS and Stripe payments",
-        "image": "Next amazon.jpeg",
-        "url": "https://amazon-by-tsa.vercel.app/"
+        "url": "https://panchhidentalclinic.netlify.app"
       }
     ]
   }

@@ -1,4 +1,4 @@
-import React, { Component, useEffect } from "react";
+import React, { Component } from "react";
 import TypeWriter from "react-typewriter";
 import LightSpeed from "react-reveal/LightSpeed";
 import { FaDiscord } from "react-icons/fa";

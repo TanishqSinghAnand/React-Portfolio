@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Flash from "react-reveal/Flash";
+// import Flash from "react-reveal/Flash";
 import Fade from "react-reveal/Fade";
 // import "imagehover.css";
 class Portfolio extends Component {
