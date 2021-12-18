@@ -2,6 +2,9 @@ import React, { Component } from "react";
 import TypeWriter from "react-typewriter";
 import LightSpeed from "react-reveal/LightSpeed";
 import { FaDiscord } from "react-icons/fa";
+import Typing from "react-typing-animation";
+import Typist from "react-typist";
+import TypeWriterEffect from "react-typewriter-effect";
 
 class Header extends Component {
   render() {
@@ -65,9 +68,25 @@ class Header extends Component {
             <h1 className="responsive-headline">
               <div className="tsa">
                 {" "}
-                <TypeWriter typing={0.5}>
-                  {name ? `I'm ${name}.` : null}
-                </TypeWriter>
+                {/* <TypeWriter typing={0.5}>
+                 */}
+                {/* <h1 className="typewriter ">{name ? `I'm ${name}.` : null}</h1> */}
+                {/* <Typing cursorClassName="typerCursor"> */}
+                {/* <h1 className="line-1">{name ? `I'm ${name}.` : null}</h1> */}
+                <center>
+                  <TypeWriterEffect
+                    textStyle={{ fontFamily: "Red Hat Display" }}
+                    startDelay={100}
+                    cursorColor="white"
+                    text={name ? `I'm ${name}.` : null}
+                    typeSpeed={100}
+                    hideCursorAfterText
+                    // scrollArea={myAppRef}
+                  />
+                </center>
+                {/* </Typing> */}
+                {/* </TypeWriter>
+                 */}
               </div>
             </h1>
             <LightSpeed left>
