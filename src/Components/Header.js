@@ -74,7 +74,7 @@ class Header extends Component {
                 {/* <Typing cursorClassName="typerCursor"> */}
                 {/* <h1 className="line-1">{name ? `I'm ${name}.` : null}</h1> */}
                 <center>
-                  <TypeWriterEffect
+                  {/* <TypeWriterEffect
                     textStyle={{ fontFamily: "Red Hat Display" }}
                     startDelay={100}
                     cursorColor="white"
@@ -82,7 +82,8 @@ class Header extends Component {
                     typeSpeed={100}
                     hideCursorAfterText
                     // scrollArea={myAppRef}
-                  />
+                  /> */}
+                  {name ? `I'm ${name}.` : null}
                 </center>
                 {/* </Typing> */}
                 {/* </TypeWriter>
