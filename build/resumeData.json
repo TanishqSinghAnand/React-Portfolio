@@ -14,30 +14,8 @@
       "state": "Punjab",
       "zip": "160062"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "",
-    "social": [
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/tanishq.singhanand",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tanishq-s-anand-91743119b",
-        "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/tanishq0504",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "https://github.com/TanishqSinghAnand",
-        "className": "fa fa-github"
-      }
-    ]
+    "website": "https://tanishq.technyteams.co.in/",
+    "resumedownload": ""
   },
   "resume": {
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",

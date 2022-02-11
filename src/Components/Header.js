@@ -1,10 +1,14 @@
 import React, { Component } from "react";
-import TypeWriter from "react-typewriter";
 import LightSpeed from "react-reveal/LightSpeed";
-import { FaDiscord } from "react-icons/fa";
-import Typing from "react-typing-animation";
-import Typist from "react-typist";
-import TypeWriterEffect from "react-typewriter-effect";
+import {
+  FaDiscord,
+  FaFacebookF,
+  FaLinkedinIn,
+  FaInstagram,
+  FaGithub,
+} from "react-icons/fa";
+import TypeWriter from "react-typewriter";
+
 
 class Header extends Component {
   render() {
@@ -13,15 +17,6 @@ class Header extends Component {
       var occupation = this.props.data.occupation;
       var description = this.props.data.description;
       var city = this.props.data.address.city;
-      var networks = this.props.data.social.map(function (network) {
-        return (
-          <li key={network.name}>
-            <a href={network.url}>
-              <i className={network.className}></i>
-            </a>
-          </li>
-        );
-      });
     }
 
     return (
@@ -67,27 +62,9 @@ class Header extends Component {
           <div className="banner-text">
             <h1 className="responsive-headline">
               <div className="tsa">
-                {" "}
-                {/* <TypeWriter typing={0.5}>
-                 */}
-                {/* <h1 className="typewriter ">{name ? `I'm ${name}.` : null}</h1> */}
-                {/* <Typing cursorClassName="typerCursor"> */}
-                {/* <h1 className="line-1">{name ? `I'm ${name}.` : null}</h1> */}
-                <center>
-                  {/* <TypeWriterEffect
-                    textStyle={{ fontFamily: "Red Hat Display" }}
-                    startDelay={100}
-                    cursorColor="white"
-                    text={name ? `I'm ${name}.` : null}
-                    typeSpeed={100}
-                    hideCursorAfterText
-                    // scrollArea={myAppRef}
-                  /> */}
+                <TypeWriter typing={0.5}>
                   {name ? `I'm ${name}.` : null}
-                </center>
-                {/* </Typing> */}
-                {/* </TypeWriter>
-                 */}
+                </TypeWriter>
               </div>
             </h1>
             <LightSpeed left>
@@ -96,7 +73,26 @@ class Header extends Component {
               </h3>
               <hr />
               <ul className="social">
-                {networks}
+                <li key="facebook">
+                  <a href="https://www.facebook.com/tanishq.singhanand">
+                    <FaFacebookF />
+                  </a>
+                </li>
+                <li key="linkedin">
+                  <a href="https://www.linkedin.com/in/tanishq-s-anand-91743119b">
+                    <FaLinkedinIn />
+                  </a>
+                </li>
+                <li key="instagram">
+                  <a href="https://www.instagram.com/tanishq0504">
+                    <FaInstagram />
+                  </a>
+                </li>
+                <li key="github">
+                  <a href="https://github.com/TanishqSinghAnand">
+                    <FaGithub />
+                  </a>
+                </li>
                 <li key="discord">
                   <a href="https://discord.com/users/785909322151755848">
                     <FaDiscord />
