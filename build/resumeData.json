@@ -86,7 +86,12 @@
         "title": "Techny Teams website",
         "category": "Build with React, TailwindCSS",
         "image": "Techny Teams React.png",
-        "url": "https://www.tanishqsinghanands.live"
+        "url": "https://technyteams.co.in/"
+      },{
+        "title": "Metaverse - Web3 realtime chat app",
+        "category": "Build with NextJs,Moralis, TailwindCSS",
+        "image": "Metaverse Chat App.png",
+        "url": "https://metaverse-gamma.vercel.app/"
       },
       {
         "title": " YPS Google",
