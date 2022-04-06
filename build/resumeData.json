@@ -87,17 +87,24 @@
         "category": "Build with React, TailwindCSS",
         "image": "Techny Teams React.png",
         "url": "https://technyteams.co.in/"
-      },{
+      },
+      {
         "title": "Metaverse - Web3 realtime chat app",
         "category": "Build with NextJs,Moralis, TailwindCSS",
         "image": "Metaverse Chat App.png",
         "url": "https://metaverse-gamma.vercel.app/"
       },
       {
-        "title": " YPS Google",
-        "category": "Google clone built with React",
-        "image": "YPS_Google.png",
-        "url": "https://clone-c29a7.web.app"
+        "title": "NFT Drop MarketPlace",
+        "category": "Build with NextJs, ThirdWeb, TailwindCSS",
+        "image": "NFT-Drop.png",
+        "url": "https://nft-drop-techny-teams.vercel.app/"
+      },
+      {
+        "title": "NextJs Search Engine",
+        "category": "Google like app build with GoogleAPI, NextJS, TailwindCss",
+        "image": "Next-Js-Google.png",
+        "url": "https://nextjs-google-by-tanishq.vercel.app/"
       },
       {
         "title": "Attendence app",
@@ -128,6 +135,12 @@
         "category": "Amazon clone built with React",
         "image": "Amazon Clone.png",
         "url": "https://clone-8c3a2.web.app"
+      },
+      {
+        "title": " YPS Google",
+        "category": "Google clone built with React",
+        "image": "YPS_Google.png",
+        "url": "https://clone-c29a7.web.app"
       },
       {
         "title": "WhatsApp",
