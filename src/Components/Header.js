@@ -9,7 +9,6 @@ import {
 } from "react-icons/fa";
 import TypeWriter from "react-typewriter";
 
-
 class Header extends Component {
   render() {
     if (this.props.data) {
