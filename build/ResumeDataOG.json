@@ -99,7 +99,7 @@
         "category": "Build with NextJs, ThirdWeb, TailwindCSS",
         "image": "NFT-Drop.png",
         "url": "https://nft-drop-techny-teams.vercel.app/"
-      }
+      },
       {
         "title": "NextJs Search Engine",
         "category": "Google like app build with GoogleAPI, NextJS, TailwindCss",
@@ -124,7 +124,12 @@
         "image": "Calculator.png",
         "url": "https://tanishqsinghanand.github.io/Final-Calculator"
       },
-
+      {
+        "title": "Tic-Tac-Toe",
+        "category": "Tic-Tac-Toe made with Javascript (P5.js)",
+        "image": "Tic-Tac-Toe.png",
+        "url": "https://tanishqsinghanand.github.io/TICTACTOE"
+      },
       {
         "title": "Amazon",
         "category": "Amazon clone built with React",
@@ -166,6 +171,12 @@
         "category": "Build with React (Still in development)",
         "image": "Netflix.png",
         "url": "https://netflix-clone-by-tanishq.netlify.app"
+      },
+      {
+        "title": "Panchhi Dental Clinic Website",
+        "category": "Build with React (Still in development)",
+        "image": "Panchhi_Dental_Clinic.jpeg",
+        "url": "https://panchhidentalclinic.netlify.app"
       }
     ]
   }

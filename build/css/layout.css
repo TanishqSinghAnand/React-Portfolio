@@ -209,8 +209,8 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: fit-content;
+   /* height: 18rem; */
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
@@ -501,6 +501,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .portfolio-item .item-wrap img {
    vertical-align: bottom;
+   width: fit-content;
 }
 .portfolio-item .portfolio-item-meta { padding: 18px }
 .portfolio-item .portfolio-item-meta h6 {
