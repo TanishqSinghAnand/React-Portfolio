@@ -4,7 +4,7 @@
     "occupation": "React Native developer",
     "description": "Night developer . Love Coding",
     "image": "TSA_JOD.png",
-    "bio": "My name is Tanishq , I'm a React Native developer. Currently I'm in grade 10 at YPS mohali ",
+    "bio": "My name is Tanishq , I'm a React Native developer. Currently I'm in grade 11 preparing for JEE ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "anandtanishqs@gmail.com",
     "phone": "+91 7837552077",
@@ -22,7 +22,10 @@
     "education": [
       {
         "school": "Yadavindra Public School, Mohali",
-        "class": "Class : 10"
+        "class": "Till class 10"
+      },{
+        "school": "Sri Chaitanya, Chandigarh",
+        "class": "Currently : 11th "
       }
     ],
     "skills": [

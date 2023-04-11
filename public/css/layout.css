@@ -211,6 +211,13 @@ ul#nav li.current a { color: #F06000; }
    position: relative;
    width: fit-content;
    /* height: 18rem; */
+   
+   /* border-radius: 999px; */
+   /* -webkit-filter: drop-shadow(1px 1px 0 white)
+                  drop-shadow(-1px -1px 0 white);
+  filter: drop-shadow(1px 1px 0 white) 
+          drop-shadow(-1px -1px 0 white); */
+   /* border-style: solid; */
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }
