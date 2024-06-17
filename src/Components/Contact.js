@@ -115,15 +115,17 @@ const Contact = ({ data }) => {
 
             <aside className="four columns footer-widgets">
               <div className="widget widget_contact">
-                <h4>Address and Phone</h4>
+                <h4>Contact info</h4>
                 <p className="address">
                   {data?.name}
-                  <br />
+                  {/* <br />
                   {data?.address.street} <br />
                   {data?.address.city}, {data?.address.state}{" "}
-                  {data?.address.zip}
+                  {data?.address.zip} */}
                   <br />
                   <span>{data?.phone}</span>
+                  <br/>
+                  <span>{data?.email}</span>
                 </p>
               </div>
 
