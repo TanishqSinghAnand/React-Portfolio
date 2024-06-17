@@ -4,7 +4,7 @@
     "occupation": "React Native developer",
     "description": "Night developer . Love Coding",
     "image": "TSA_JOD.png",
-    "bio": "My name is Tanishq , I'm a React Native developer. Currently I'm in grade 11 preparing for JEE ",
+    "bio": "My name is Tanishq , I'm a React Native developer. Currently I'm in grade 12 preparing for JEE ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "anandtanishqs@gmail.com",
     "phone": "+91 7837552077",
@@ -22,10 +22,10 @@
     "education": [
       {
         "school": "Yadavindra Public School, Mohali",
-        "class": "Till class 10"
+        "class": "Nursery - Grade 10"
       },{
-        "school": "Sri Chaitanya, Chandigarh",
-        "class": "Currently : 11th "
+        "school": "St. Peter's Senior Secondary School, Chandigarh",
+        "class": "Grade 11 & 12"
       }
     ],
     "skills": [
@@ -36,10 +36,6 @@
       {
         "name": "React",
         "level": "80%"
-      },
-      {
-        "name": "Redux",
-        "level": "75%"
       },
       {
         "name": "Git",
@@ -64,10 +60,6 @@
       {
         "name": "Node.js",
         "level": "70%"
-      },
-      {
-        "name": "Java",
-        "level": "25%"
       }
     ]
   },
@@ -109,36 +101,12 @@
         "image": "Next-Js-Google.png",
         "url": "https://nextjs-google-by-tanishq.vercel.app/"
       },
-      {
-        "title": "Attendence app",
-        "category": "Attendence App built with react native",
-        "image": "Attendence App.png",
-        "url": "https://attendence-app-hosted.web.app"
-      },
-      {
-        "title": "Snake Game",
-        "category": "Snake Game made with Javascript (P5.js)",
-        "image": "Snake Game.png",
-        "url": "https://tanishqsinghanand.github.io/Snake-game-by-TSA-"
-      },
-      {
-        "title": "Calculator",
-        "category": "Calculator made with Javascript",
-        "image": "Calculator.png",
-        "url": "https://tanishqsinghanand.github.io/Final-Calculator"
-      },
 
       {
         "title": "Amazon",
         "category": "Amazon clone built with React",
         "image": "Amazon Clone.png",
         "url": "https://clone-8c3a2.web.app"
-      },
-      {
-        "title": " YPS Google",
-        "category": "Google clone built with React",
-        "image": "YPS_Google.png",
-        "url": "https://clone-c29a7.web.app"
       },
       {
         "title": "WhatsApp",
