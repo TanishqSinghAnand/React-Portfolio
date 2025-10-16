@@ -2,7 +2,7 @@
   "main": {
     "name": "Tanishq Singh Anand",
     "occupation": "React Native developer",
-    "description": "Night developer . Love Coding",
+    "description": "Full Stack Developer | AI Learner | Coffee-powered Night Coder",
     "image": "TSA_JOD.png",
     "bio": "My name is Tanishq , I'm a React Native developer. Currently I'm in grade 12 preparing for JEE ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
@@ -22,10 +22,14 @@
     "education": [
       {
         "school": "Yadavindra Public School, Mohali",
-        "class": "Nursery - Grade 10"
+        "class": "Grade 10"
       },{
         "school": "St. Peter's Senior Secondary School, Chandigarh",
-        "class": "Grade 11 & 12"
+        "class": "Grade 12"
+      },
+      {
+        "school": "University Institute of Engineering and Technology, Panjab University, Chandigarh",
+        "class":"B.E. CSE (2029)"
       }
     ],
     "skills": [

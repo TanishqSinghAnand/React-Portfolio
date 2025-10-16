@@ -68,7 +68,9 @@ class Header extends Component {
             </h1>
             <LightSpeed left>
               <h3>
-                I'm an {city} based <span>{occupation}</span>. {description}.
+                I'm an {city} based <span>{occupation}</span>.
+                <br />
+                {description}
               </h3>
               <hr />
               <ul className="social">
@@ -90,11 +92,6 @@ class Header extends Component {
                 <li key="github">
                   <a href="https://github.com/TanishqSinghAnand">
                     <FaGithub />
-                  </a>
-                </li>
-                <li key="discord">
-                  <a href="https://discord.com/users/785909322151755848">
-                    <FaDiscord />
                   </a>
                 </li>
               </ul>
