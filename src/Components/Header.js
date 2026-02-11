@@ -16,6 +16,8 @@ class Header extends Component {
       var occupation = this.props.data.occupation;
       var description = this.props.data.description;
       var city = this.props.data.address.city;
+      var explorations = this.props.data.explorations;
+      var buildings = this.props.data.buildings;
     }
 
     return (
@@ -68,17 +70,18 @@ class Header extends Component {
             </h1>
             <LightSpeed left>
               <h3>
-                I'm an {city} based <span>{occupation}</span>.
-                <br />
+                {/* <span>{occupation}</span> building{" "}<span>{buildings}</span> & exploring{" "}
+                <span>{explorations}</span>.<span></span>.
+                <br /> */}
                 {description}
-              </h3>
+              </h3> 
               <hr />
               <ul className="social">
-                <li key="facebook">
+                {/* <li key="facebook">
                   <a href="https://www.facebook.com/tanishq.singhanand">
                     <FaFacebookF />
                   </a>
-                </li>
+                </li> */}
                 <li key="linkedin">
                   <a href="https://www.linkedin.com/in/tanishq-s-anand-91743119b">
                     <FaLinkedinIn />

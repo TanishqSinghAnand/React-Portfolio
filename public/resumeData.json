@@ -1,10 +1,12 @@
 {
   "main": {
     "name": "Tanishq Singh Anand",
-    "occupation": "React Native developer",
-    "description": "Full Stack Developer | AI Learner | Coffee-powered Night Coder",
-    "image": "TSA_JOD.png",
-    "bio": "My name is Tanishq , I'm a React Native developer. Currently I'm in grade 12 preparing for JEE ",
+    "occupation": "Full Stack Developer",
+    "buildings":"scalable web systems",
+    "explorations":"AI-driven solutions",
+    "description": "Full Stack Developer | AI & ML Enthusiast",
+    "image": "pic_tsa.png",
+    "bio": "I’m a Computer Science Engineering student and full-stack developer with hands-on experience in React, Next.js, Node.js, and Firebase. I secured 3rd place in the Papa React NFT Drop Hackathon, building and deploying a complete web application under competitive pressure. I’ve also earned the IBM Data Science Professional Certificate, strengthening my foundation in Python, data analysis, and machine learning. I’m passionate about combining full-stack development with AI to build intelligent, data-driven applications.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "anandtanishqs@gmail.com",
     "phone": "+91 7837552077",
@@ -22,48 +24,40 @@
     "education": [
       {
         "school": "Yadavindra Public School, Mohali",
-        "class": "Grade 10"
+        "class": "Grade 10 - 94%"
       },{
         "school": "St. Peter's Senior Secondary School, Chandigarh",
-        "class": "Grade 12"
+        "class": "Grade 12 - 83%"
       },
       {
         "school": "University Institute of Engineering and Technology, Panjab University, Chandigarh",
-        "class":"B.E. CSE (2029)"
+        "class":"B.E. CSE'29"
       }
     ],
     "skills": [
       {
-        "name": "React Native",
+        "name": "MERN Stack",
         "level": "90%"
       },
       {
-        "name": "React",
+        "name": "React Native",
         "level": "80%"
       },
       {
-        "name": "Git",
-        "level": "80%"
+        "name": "Next.js",
+        "level": "70%"
+      },
+      {
+        "name": "Firebase",
+        "level": "70%"
       },
       {
         "name": "Python",
         "level": "60%"
       },
       {
-        "name": "JavaScript",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "90%"
-      },
-      {
-        "name": "CSS3",
-        "level": "70%"
-      },
-      {
-        "name": "Node.js",
-        "level": "70%"
+        "name": "Jupyter Notebook",
+        "level": "60%"
       }
     ]
   },
@@ -71,74 +65,74 @@
     "projects": [
       {
         "title": "Amazon with Next JS",
-        "category": "E-commerce app with Next JS and Stripe payments",
+        "category": "Full-stack e-commerce with Stripe payments",
         "image": "Next amazon.jpeg",
         "url": "https://amazon-by-tsa.vercel.app"
       },
       {
         "title": "Tinstagram",
-        "category": "Build with NextJS ( Click on the + icon to upload a post ) ",
+        "category": "Social media app with real-time post uploads",
         "image": "Tinstagram.png",
         "url": "https://next-js-tg.vercel.app"
       },
       {
         "title": "Techny Teams website",
-        "category": "Build with React, TailwindCSS",
+        "category": "Modern company website with responsive UI",
         "image": "Techny Teams React.png",
-        "url": "https://technyteams.co.in/"
+        "url": "https://techny-teams-tsa.netlify.app/"
       },
       {
         "title": "Metaverse - Web3 realtime chat app",
-        "category": "Build with NextJs,Moralis, TailwindCSS",
+        "category": "Web3 real-time chat with wallet integration",
         "image": "Metaverse Chat App.png",
         "url": "https://metaverse-gamma.vercel.app/"
       },
       {
         "title": "NFT Drop MarketPlace",
-        "category": "Build with NextJs, ThirdWeb, TailwindCSS",
+        "category": "NFT minting and marketplace platform",
         "image": "NFT-Drop.png",
         "url": "https://nft-drop-techny-teams.vercel.app/"
       },
       {
         "title": "NextJs Search Engine",
-        "category": "Google like app build with GoogleAPI, NextJS, TailwindCss",
+        "category": "Google-style search powered by API data",
         "image": "Next-Js-Google.png",
         "url": "https://nextjs-google-by-tanishq.vercel.app/"
       },
 
       {
         "title": "Amazon",
-        "category": "Amazon clone built with React",
+        "category": "E-commerce UI with cart and authentication",
         "image": "Amazon Clone.png",
         "url": "https://clone-8c3a2.web.app"
       },
       {
         "title": "WhatsApp",
-        "category": "WhatsApp clone built with React",
+        "category": "Real-time messaging app with Firebase",
         "image": "WhatsApp.jpeg",
         "url": "https://whatsapp-clone-c7a05.web.app"
       },
       {
         "title": "Covid-19 Tracker",
-        "category": "Covid-19 Tracker built with React",
+        "category": "Live global stats with interactive charts",
         "image": "covid-tracker.jpeg",
         "url": "https://covidtrackerbytanishq.netlify.app"
       },
       {
         "title": "Discord",
-        "category": "Discord built with React",
+        "category": "Server-based chat with channel system",
         "image": "Discord.jpeg",
         "url": "https://discordbytanishq.netlify.app"
       },
       {
         "title": "A simple Responsive Website",
-        "category": "Build with HTML , CSS and JS",
+        "category": "Responsive multi-section landing page",
         "image": "Techny Teams.jpeg",
         "url": "https://technyteams.netlify.app"
       },
       {
         "title": "Netflix UI ",
-        "category": "Build with React (Still in development)",
+        "category": "Streaming platform UI recreation(Still in development)",
         "image": "Netflix.png",
         "url": "https://netflix-clone-by-tanishq.netlify.app"
       }
